@@ -12,6 +12,15 @@ Repositório para listagem das **Formações** e **Bootcamps** concluídos na pl
 
 ### FORMAÇÕES
 
+- ### Formação Python Fundamentals
+    <img src="./formacoes/python-fundamentals/assets/python-fundamentals-logo.png" width="60px"/>
+
+    [conteúdo](https://github.com/astorti/formacoes-bootcamps-DIO/tree/main/formacoes/python-fundamentals)<br>
+    conclusão: 01/12/2025<br>
+    
+
+<hr>
+
 - ### Formação Lógica de Programação
     <img src="./formacoes/logica-programacao/assets/logica-programacao-logo.png" width="60px"/>
 
