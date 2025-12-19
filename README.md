@@ -51,6 +51,16 @@ Repositório para listagem das **Formações** e **Bootcamps** concluídos na pl
 
 ### BOOTCAMPS
 
+- ### Blip - Lógica de Programação
+    <img src="./bootcamps/blip-logica-programacao/assets/blip-logica-programacao-logo.png" width="60px"/>
+
+    [conteúdo](https://github.com/astorti/formacoes-bootcamps-DIO/tree/main/bootcamps/blip-logica-programacao)<br>
+    conclusão: 19/12/2025<br>
+    projetos: [Classificador de Nível de Herói](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/01-classificador-de-nivel-de-heroi) | [Calculadora de Partidas Rankeadas](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/02-calculadora-de-partidas-rankeadas)
+    | [Escrevendo as Classes de um Jogo](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/03-escrevendo-as-classes-de-um-jogo)
+
+<hr/>
+
 - ### Savegnago - Lógica de Programação
     <img src="./bootcamps/savegnago-logica-programacao/assets/savegnago-logica-programacao-logo.png" width="60px"/>
 
@@ -58,3 +68,6 @@ Repositório para listagem das **Formações** e **Bootcamps** concluídos na pl
     conclusão: 04/09/2025<br>
     projetos: [Classificador de Nível de Herói](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/01-classificador-de-nivel-de-heroi) | [Calculadora de Partidas Rankeadas](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/02-calculadora-de-partidas-rankeadas)
     | [Escrevendo as Classes de um Jogo](https://github.com/astorti/formacao-logica-programacao-DIO/tree/main/desafios/03-escrevendo-as-classes-de-um-jogo)
+
+<hr/>
+<hr/>
