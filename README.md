@@ -12,6 +12,15 @@ Repositório para listagem das **Formações** e **Bootcamps** concluídos na pl
 
 ### FORMAÇÕES
 
+- ### Formação Kotlin Backend Developer
+    <img src="./formacoes/kotlin-backend-developer/assets/kotlin-backend-develoer-logo.png" width="60px"/>
+
+  [conteúdo](https://github.com/astorti/formacoes-bootcamps-DIO/tree/main/formacoes/kotlin-backend-developer)<br>
+  conclusão: 19/09/2026<br>
+  projetos: [Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin](https://github.com/astorti/projetos-dio/tree/main/Kotlin/AbstraindoFormacoesDIO-UsandoOrientacaoObjetosComKotlin) | [Documentando e Testando sua API REST com Kotlin](https://github.com/astorti/projetos-dio/tree/main/Kotlin/DocumentandoETestandoSuaAPIRestComKotlin/credit-application-system)
+
+<hr>
+
 - ### Formação Java Fundamentals
     <img src="./formacoes/java-fundamentals/assets/java-fundamentals-logo.png" width="60px"/>
 
